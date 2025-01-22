@@ -38,5 +38,5 @@ The display device translates data into visual outputs.
 Below are the datasheets for the components used in this project:
 
 1. [ESP32-WROOM-32 Datasheet](https://github.com/DianaDingYQ/514_final_project/blob/245f632a71dc274b233177428b37fe5e066069aa/esp32-wroom-32_datasheet_en.pdf)
-2. [BME280 Datasheet](datasheets/BST-BME280-DS002-1509607.pdf)
-3. [Soil Moisture Sensor Datasheet](datasheets/soilmoisturesensor.pdf)
+2. [BME280 Datasheet](https://github.com/DianaDingYQ/514_final_project/blob/245f632a71dc274b233177428b37fe5e066069aa/BST-BME280-DS002-1509607.pdf)
+3. [Soil Moisture Sensor Datasheet](https://github.com/DianaDingYQ/514_final_project/blob/245f632a71dc274b233177428b37fe5e066069aa/soilmoisturesensor.pdf)
