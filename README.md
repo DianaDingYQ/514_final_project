@@ -16,4 +16,20 @@ The sensor device collects real-time data and sends it wirelessly to the display
   - BME280 Sensor: Measures light intensity and temperature.
   - ESP32: Processes data and sends it.
   - Lithium Battery: Powers the device.
-  - 
+
+![Sensor Device Overview](https://github.com/DianaDingYQ/514_final_project/blob/7d88aa1ccbae8d68a91a3e4248ebb06e63b5c618/sensor_slide.jpg)
+
+## Display Device
+The display device translates data into visual outputs.
+- **Features:**
+  - Motor-Driven Gauge: Displays soil moisture levels.
+  - LED Light Indicator: Lights up when the soil moisture is below a threshold.
+  - OLED Screen: Displays numerical data for soil moisture, light intensity, and temperature.
+  - Tac Button: Switches between light intensity and temperature displays.
+![Display Sensor Device Overview](https://github.com/DianaDingYQ/514_final_project/blob/7d88aa1ccbae8d68a91a3e4248ebb06e63b5c618/display_slide.jpg)
+
+## Communication and Workflow
+![Communication Diagram](https://github.com/DianaDingYQ/514_final_project/blob/e170dd6a9a0a8a7d84ec6e1c5b2751c2766cb2f4/communication.jpg)
+![Workflow Diagram](https://github.com/DianaDingYQ/514_final_project/blob/e170dd6a9a0a8a7d84ec6e1c5b2751c2766cb2f4/workflow.jpg)
+
+
